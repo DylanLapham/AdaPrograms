@@ -1,3 +1,6 @@
+-- Author: Dylan Lapham
+-- This program is a procedure that has 4 integers. It takes in 3 separate integers via stdin and outputs the smallest of the three integers.
+
 with Ada.Text_IO;   use Ada.Text_IO;
 with Ada.Integer_Text_IO;    use Ada.Integer_Text_IO;
 
